@@ -47,3 +47,151 @@
 .right-btn{
     text-align: right;
 }
+
+/* Failure section */
+
+.failure-contents{
+    max-width: 1100px;
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 200px;
+    
+
+}
+.failure-sec{
+    margin-left: 80px;
+}
+.failure-title{
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+}
+.failure-discription{
+    color: #444343;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+.failure-check{
+    margin-bottom: 20px;
+}
+
+/* PLANS SECTION */
+
+.plans{
+    max-width: 1180px;
+    margin-top: 100px;
+    margin: 0 auto;
+    
+}
+.plans-title{
+    margin-top: 100px;
+    margin-bottom: 70px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.plan-container{
+    display: flex;
+    justify-content: space-around;   
+}
+.plan-items{
+    padding: 40px;
+    text-align: center;
+}
+.plan-container .plan-items  img{
+    margin-bottom: 25px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.items-title{
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.items-discription{
+    margin-bottom: 150px;
+}
+.call-now{
+    background-image:url('images/gradient2.png'), url('images/watch.png');
+    max-width: 1140px;
+    margin: 0 auto;
+    margin-bottom: 200px;
+
+}
+.call-title{
+    color: #FFF;
+    width: 459px;
+    font-size: 40px;
+    font-weight: 700;
+    padding-top: 59px;
+    padding-left: 64px;
+
+}
+.call-btn{
+    color: #F15B22;
+    background: #FFF;
+    border-radius: 5px;
+    padding: 20px 25px;
+    border: none;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 24px;
+    margin-left: 64px;
+    margin-bottom: 59px;
+   
+}
+
+/* footer */
+
+.footer{
+    color: #FFF;
+    background: #151414;
+}
+.footer-container{
+    display: flex;
+   
+}
+.footer-items{
+    width: 50%;
+    padding-top: 130px;
+    padding-left: 230px;
+    padding-bottom: 130px;
+}
+.foot-title{
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+.foot-dis{
+    margin-bottom: 20px;
+}
+.footer a{
+    margin-top: 10px;
+    margin-right: 15px;
+    text-decoration: none;
+}
+.subs-btn{
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 18px 22px;
+    border-radius: 5px;
+    border: none;
+}
+input{
+    height: 0px;
+    width: 250px;
+    border-radius: 5px;
+    background: #151414;
+    border: 1px solid #FFF;
+    padding: 21px;
+    margin-bottom: 24px;
+    margin-top: 20px;
+}
