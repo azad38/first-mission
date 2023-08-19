@@ -115,7 +115,10 @@
     margin-bottom: 20px;
 }
 .items-discription{
+    color:#444343;
     margin-bottom: 150px;
+    font-size: 20px;
+    font-weight: 500;
 }
 .call-now{
     background-image:url('images/gradient2.png'), url('images/watch.png');
